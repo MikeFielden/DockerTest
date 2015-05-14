@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 cd /tmp
 
 # try to remove the repo if it already exists
@@ -9,4 +10,4 @@ cd DockerTest
 
 npm install
 
-node .
+nodejs index
